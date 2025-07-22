@@ -3,30 +3,30 @@
   <channel>
     <title>Podcast Summaries</title>
     <description>AI-generated summaries of podcast episodes</description>
-    <link>https://yourusername.github.io/podcast_cli/</link>
+    <link>https://chrisrimondi.github.io/podcast_cli/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Jul 2025 12:21:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 12:27:54 GMT</lastBuildDate>
+    <ttl>30</ttl>
     <item>
-      <title>Windsurf, AI Agents, and Kiro</title>
+      <title>Windsurf, Ai Agents, And Kiro</title>
       <description>&lt;![CDATA[
                 &lt;h3&gt;Podcast: Software Defined Talk&lt;/h3&gt;
                 &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-07-17&lt;/p&gt;
                 
                 &lt;h4&gt;Summary:&lt;/h4&gt;
-                In this episode titled "Windsurf, AI Agents, and Kiro," the conversation opens with a casual yet intriguing personal anecdote that quickly draws listeners into a discussion blending everyday life with technology and innovation. The hosts begin by highlighting a moment from their Software Defined Talk Slack channel, where Matt reveals his excitement about designing and building a custom closet in his new home. This seemingly mundane topic serves as a springboard to explore broader themes of creativity, problem-solving, and the intersection of physical and digital design.
+                
+                &lt;p&gt;In this episode titled "Windsurf, AI Agents, and Kiro," the conversation opens with a casual yet intriguing personal anecdote that quickly draws listeners into a discussion blending everyday life with technology and innovation. The hosts begin by highlighting a moment from their Software Defined Talk Slack channel, where Matt reveals his excitement about designing and building a custom closet in his new home. This seemingly mundane topic serves as a springboard to explore broader themes of creativity, problem-solving, and the intersection of physical and digital design.&lt;/p&gt;
+&lt;p&gt;As the dialogue unfolds, key insights emerge around the process and mindset involved in creating something from scratch, whether it’s a closet or a complex software system. Matt explains his enthusiasm: “I have an empty closet that has no shelves, no nothing,” which symbolizes a blank canvas brimming with potential. The conversation touches on how designing physical spaces parallels developing software architectures—both require planning, adaptability, and an understanding of user needs. This metaphor extends to discussions about AI agents and how they can assist in managing and optimizing tasks, much like organizing a space efficiently.&lt;/p&gt;
+&lt;p&gt;Throughout the episode, the hosts intersperse thoughtful reflections and memorable quotes that underscore their points. One standout moment is when a speaker notes, “Building a closet isn’t just about shelves; it’s about envisioning how the space will serve your life.” This statement beautifully encapsulates the episode’s theme of intentional design and how technology, whether in cabinetry or AI, is most impactful when aligned with human goals. Additionally, the episode briefly touches on Kiro, hinting at innovative tools and frameworks that aid in automating and enhancing workflows.&lt;/p&gt;
+&lt;p&gt;The takeaway from this episode is a nuanced appreciation for the art and science of building—be it physical structures or digital agents. The hosts conclude that enthusiasm for creation, paired with thoughtful design principles, can transform simple tasks into meaningful projects. They encourage listeners to embrace the challenges of starting from zero, emphasizing that every blank space or empty system holds the promise of innovation and improvement.&lt;/p&gt;
+&lt;p&gt;Reflecting on the episode’s significance, it becomes clear that the blend of personal experience and technical insight offers a refreshing perspective on creativity. By linking the tangible act of building a closet with abstract concepts like AI agents, the hosts invite us to rethink how we approach problems and solutions in our own lives. This conversation not only entertains but also inspires, reminding us that whether in our homes or our code, the power to design and innovate lies within our grasp.&lt;/p&gt;
 
-As the dialogue unfolds, key insights emerge around the process and mindset involved in creating something from scratch, whether it’s a closet or a complex software system. Matt explains his enthusiasm: “I have an empty closet that has no shelves, no nothing,” which symbolizes a blank canvas brimming with potential. The conversation touches on how designing physical spaces parallels developing software architectures—both require planning, adaptability, and an understanding of user needs. This metaphor extends to discussions about AI agents and how they can assist in managing and optimizing tasks, much like organizing a space efficiently.
-
-Throughout the episode, the hosts intersperse thoughtful reflections and memorable quotes that underscore their points. One standout moment is when a speaker notes, “Building a closet isn’t just about shelves; it’s about envisioning how the space will serve your life.” This statement beautifully encapsulates the episode’s theme of intentional design and how technology, whether in cabinetry or AI, is most impactful when aligned with human goals. Additionally, the episode briefly touches on Kiro, hinting at innovative tools and frameworks that aid in automating and enhancing workflows.
-
-The takeaway from this episode is a nuanced appreciation for the art and science of building—be it physical structures or digital agents. The hosts conclude that enthusiasm for creation, paired with thoughtful design principles, can transform simple tasks into meaningful projects. They encourage listeners to embrace the challenges of starting from zero, emphasizing that every blank space or empty system holds the promise of innovation and improvement.
-
-Reflecting on the episode’s significance, it becomes clear that the blend of personal experience and technical insight offers a refreshing perspective on creativity. By linking the tangible act of building a closet with abstract concepts like AI agents, the hosts invite us to rethink how we approach problems and solutions in our own lives. This conversation not only entertains but also inspires, reminding us that whether in our homes or our code, the power to design and innovate lies within our grasp.
+            
                 ]]&gt;
                 </description>
-      <link>https://yourusername.github.io/podcast_cli/summaries/20250717_software-defined-talk_windsurf,-ai-agents,-and-kiro.html</link>
-      <guid>https://yourusername.github.io/podcast_cli/summaries/20250717_software-defined-talk_windsurf,-ai-agents,-and-kiro.html</guid>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <link>https://chrisrimondi.github.io/podcast_cli/summaries/20250717_software-defined-talk_windsurf,-ai-agents,-and-kiro.html</link>
+      <guid>https://chrisrimondi.github.io/podcast_cli/summaries/20250717_software-defined-talk_windsurf,-ai-agents,-and-kiro.html</guid>
+      <pubDate>Thu, 17 Jul 2025 12:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Fix What’S Making You Feel Old—From Joints To Mitochondria   Dr. Greg Kelly</title>
@@ -45,9 +45,9 @@ Reflecting on the episode’s significance, it becomes clear that the blend of p
             
                 ]]&gt;
                 </description>
-      <link>https://yourusername.github.io/podcast_cli/summaries/19940627_the-human-upgrade--biohacking-for-longevity-&amp;-performance_fix-what’s-making-you-feel-old—from-joints-to-mitochondria---dr.-greg-kelly.html</link>
-      <guid>https://yourusername.github.io/podcast_cli/summaries/19940627_the-human-upgrade--biohacking-for-longevity-&amp;-performance_fix-what’s-making-you-feel-old—from-joints-to-mitochondria---dr.-greg-kelly.html</guid>
-      <pubDate>Mon, 27 Jun 1994 00:00:00 GMT</pubDate>
+      <link>https://chrisrimondi.github.io/podcast_cli/summaries/19940627_the-human-upgrade--biohacking-for-longevity-&amp;-performance_fix-what’s-making-you-feel-old—from-joints-to-mitochondria---dr.-greg-kelly.html</link>
+      <guid>https://chrisrimondi.github.io/podcast_cli/summaries/19940627_the-human-upgrade--biohacking-for-longevity-&amp;-performance_fix-what’s-making-you-feel-old—from-joints-to-mitochondria---dr.-greg-kelly.html</guid>
+      <pubDate>Mon, 27 Jun 1994 12:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Why I Add Creatine To My Coffee Every Morning (And You Should Too)</title>
@@ -66,9 +66,9 @@ Reflecting on the episode’s significance, it becomes clear that the blend of p
             
                 ]]&gt;
                 </description>
-      <link>https://yourusername.github.io/podcast_cli/summaries/19940703_the-human-upgrade--biohacking-for-longevity-&amp;-performance_why-i-add-creatine-to-my-coffee-every-morning-(and-you-should-too).html</link>
-      <guid>https://yourusername.github.io/podcast_cli/summaries/19940703_the-human-upgrade--biohacking-for-longevity-&amp;-performance_why-i-add-creatine-to-my-coffee-every-morning-(and-you-should-too).html</guid>
-      <pubDate>Sun, 03 Jul 1994 00:00:00 GMT</pubDate>
+      <link>https://chrisrimondi.github.io/podcast_cli/summaries/19940703_the-human-upgrade--biohacking-for-longevity-&amp;-performance_why-i-add-creatine-to-my-coffee-every-morning-(and-you-should-too).html</link>
+      <guid>https://chrisrimondi.github.io/podcast_cli/summaries/19940703_the-human-upgrade--biohacking-for-longevity-&amp;-performance_why-i-add-creatine-to-my-coffee-every-morning-(and-you-should-too).html</guid>
+      <pubDate>Sun, 03 Jul 1994 12:00:00 GMT</pubDate>
     </item>
     <item>
       <title>From Architect To Ai Exec  Scaling Leadership, Maintaining Credibility &amp; Effective Communication To </title>
@@ -87,9 +87,9 @@ Reflecting on the episode’s significance, it becomes clear that the blend of p
             
                 ]]&gt;
                 </description>
-      <link>https://yourusername.github.io/podcast_cli/summaries/20250526_the-engineering-leadership-podcast_from-architect-to-ai-exec--scaling-leadership,-maintaining-credibility-&amp;-effective-communication-to-.html</link>
-      <guid>https://yourusername.github.io/podcast_cli/summaries/20250526_the-engineering-leadership-podcast_from-architect-to-ai-exec--scaling-leadership,-maintaining-credibility-&amp;-effective-communication-to-.html</guid>
-      <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
+      <link>https://chrisrimondi.github.io/podcast_cli/summaries/20250526_the-engineering-leadership-podcast_from-architect-to-ai-exec--scaling-leadership,-maintaining-credibility-&amp;-effective-communication-to-.html</link>
+      <guid>https://chrisrimondi.github.io/podcast_cli/summaries/20250526_the-engineering-leadership-podcast_from-architect-to-ai-exec--scaling-leadership,-maintaining-credibility-&amp;-effective-communication-to-.html</guid>
+      <pubDate>Mon, 26 May 2025 12:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

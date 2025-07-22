@@ -15,7 +15,8 @@ class RSSGenerator:
     """Generate RSS feeds and HTML pages for podcast summaries"""
     
     def __init__(self, docs_directory: str = "docs"):
-        self.docs_dir = Path(docs_directory)
+        # Expand the path to handle ~ and relative paths
+        self.docs_dir = Path(docs_directory).expanduser().resolve()
         self.summaries_dir = self.docs_dir / "summaries"
         self.assets_dir = self.docs_dir / "assets"
         
@@ -27,7 +28,7 @@ class RSSGenerator:
         # RSS feed configuration
         self.feed_title = "Podcast Summaries"
         self.feed_description = "AI-generated summaries of podcast episodes"
-        self.feed_link = "https://yourusername.github.io/podcast_cli/"  # Update this
+        self.feed_link = "https://chrisrimondi.github.io/podcast_cli/"
         self.feed_language = "en"
         
         # Track all summaries for RSS feed
@@ -113,8 +114,9 @@ class RSSGenerator:
                 'url': f"{self.feed_link}summaries/{filename}.html"
             }
             
-            # Insert at beginning (most recent first)
-            self.summaries.insert(0, summary_data)
+            # Reload all summaries to ensure we have the complete list
+            self.summaries = []
+            self._load_existing_summaries()
             
             # Update RSS feed
             self._update_rss_feed()
@@ -190,7 +192,11 @@ class RSSGenerator:
             ET.SubElement(channel, 'description').text = self.feed_description
             ET.SubElement(channel, 'link').text = self.feed_link
             ET.SubElement(channel, 'language').text = self.feed_language
-            ET.SubElement(channel, 'lastBuildDate').text = datetime.now().strftime('%a, %d %b %Y %H:%M:%S GMT')
+            # Use current time for lastBuildDate to ensure RSS readers detect updates
+            current_time = datetime.now()
+            ET.SubElement(channel, 'lastBuildDate').text = current_time.strftime('%a, %d %b %Y %H:%M:%S GMT')
+            # Add TTL to help with caching (30 minutes)
+            ET.SubElement(channel, 'ttl').text = '30'
             
             # Add items (summaries)
             for summary in self.summaries[:20]:  # Limit to 20 most recent
@@ -210,13 +216,17 @@ class RSSGenerator:
                 
                 ET.SubElement(item, 'link').text = summary['url']
                 ET.SubElement(item, 'guid').text = summary['url']
-                ET.SubElement(item, 'pubDate').text = summary['date'].strftime('%a, %d %b %Y %H:%M:%S GMT')
+                # Use episode date for pubDate, but ensure it has a proper time
+                episode_datetime = summary['date'].replace(hour=12, minute=0, second=0)  # Set to noon to avoid timezone issues
+                ET.SubElement(item, 'pubDate').text = episode_datetime.strftime('%a, %d %b %Y %H:%M:%S GMT')
             
             # Write RSS file
             rss_file = self.docs_dir / "feed.xml"
             with open(rss_file, 'w', encoding='utf-8') as f:
                 f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
                 f.write(minidom.parseString(ET.tostring(rss)).toprettyxml(indent="  ")[23:])
+            
+            print(f"RSS feed updated with {len(self.summaries)} items at {current_time.strftime('%Y-%m-%d %H:%M:%S')}")
                 
         except Exception as e:
             print(f"Error updating RSS feed: {e}")
@@ -285,4 +295,13 @@ class RSSGenerator:
     
     def get_site_url(self) -> str:
         """Get the main site URL"""
-        return self.feed_link 
+        return self.feed_link
+    
+    def refresh_feed(self):
+        """Force refresh the RSS feed by reloading summaries and updating"""
+        print("Refreshing RSS feed...")
+        self.summaries = []
+        self._load_existing_summaries()
+        self._update_rss_feed()
+        self._update_index_page()
+        print(f"RSS feed refreshed with {len(self.summaries)} items") 
