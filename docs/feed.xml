@@ -3,25 +3,67 @@
   <channel>
     <title>Podcast Summaries</title>
     <description>AI-generated summaries of podcast episodes</description>
-    <link>https://chrisrimondi.github.io/podcast_cli/</link>
+    <link>https://yourusername.github.io/podcast_cli/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Jul 2025 12:11:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 12:21:26 GMT</lastBuildDate>
     <item>
-      <title>Why I Add Creatine to My Coffee Every Morning (And You Should Too)</title>
+      <title>Windsurf, AI Agents, and Kiro</title>
       <description>&lt;![CDATA[
-                &lt;h3&gt;Podcast: The Human Upgrade: Biohacking for Longevity &amp; Performance&lt;/h3&gt;
+                &lt;h3&gt;Podcast: Software Defined Talk&lt;/h3&gt;
+                &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-07-17&lt;/p&gt;
+                
+                &lt;h4&gt;Summary:&lt;/h4&gt;
+                In this episode titled "Windsurf, AI Agents, and Kiro," the conversation opens with a casual yet intriguing personal anecdote that quickly draws listeners into a discussion blending everyday life with technology and innovation. The hosts begin by highlighting a moment from their Software Defined Talk Slack channel, where Matt reveals his excitement about designing and building a custom closet in his new home. This seemingly mundane topic serves as a springboard to explore broader themes of creativity, problem-solving, and the intersection of physical and digital design.
+
+As the dialogue unfolds, key insights emerge around the process and mindset involved in creating something from scratch, whether it’s a closet or a complex software system. Matt explains his enthusiasm: “I have an empty closet that has no shelves, no nothing,” which symbolizes a blank canvas brimming with potential. The conversation touches on how designing physical spaces parallels developing software architectures—both require planning, adaptability, and an understanding of user needs. This metaphor extends to discussions about AI agents and how they can assist in managing and optimizing tasks, much like organizing a space efficiently.
+
+Throughout the episode, the hosts intersperse thoughtful reflections and memorable quotes that underscore their points. One standout moment is when a speaker notes, “Building a closet isn’t just about shelves; it’s about envisioning how the space will serve your life.” This statement beautifully encapsulates the episode’s theme of intentional design and how technology, whether in cabinetry or AI, is most impactful when aligned with human goals. Additionally, the episode briefly touches on Kiro, hinting at innovative tools and frameworks that aid in automating and enhancing workflows.
+
+The takeaway from this episode is a nuanced appreciation for the art and science of building—be it physical structures or digital agents. The hosts conclude that enthusiasm for creation, paired with thoughtful design principles, can transform simple tasks into meaningful projects. They encourage listeners to embrace the challenges of starting from zero, emphasizing that every blank space or empty system holds the promise of innovation and improvement.
+
+Reflecting on the episode’s significance, it becomes clear that the blend of personal experience and technical insight offers a refreshing perspective on creativity. By linking the tangible act of building a closet with abstract concepts like AI agents, the hosts invite us to rethink how we approach problems and solutions in our own lives. This conversation not only entertains but also inspires, reminding us that whether in our homes or our code, the power to design and innovate lies within our grasp.
+                ]]&gt;
+                </description>
+      <link>https://yourusername.github.io/podcast_cli/summaries/20250717_software-defined-talk_windsurf,-ai-agents,-and-kiro.html</link>
+      <guid>https://yourusername.github.io/podcast_cli/summaries/20250717_software-defined-talk_windsurf,-ai-agents,-and-kiro.html</guid>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fix What’S Making You Feel Old—From Joints To Mitochondria   Dr. Greg Kelly</title>
+      <description>&lt;![CDATA[
+                &lt;h3&gt;Podcast: The Human Upgrade  Biohacking For Longevity &amp; Performance&lt;/h3&gt;
+                &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 1994-06-27&lt;/p&gt;
+                
+                &lt;h4&gt;Summary:&lt;/h4&gt;
+                
+                &lt;p&gt;In this insightful episode titled "Fix What’s Making You Feel Old—From Joints to Mitochondria," Dr. Greg Kelly dives deep into the underlying causes of premature aging and chronic discomfort, focusing on the often-overlooked role of inflammation and gut health. The discussion centers on how various internal factors, from joint health to cellular energy production, contribute to the feeling of aging, and what actionable steps listeners can take to reverse these processes. With a blend of scientific understanding and practical advice, the episode offers a roadmap to restoring vitality and youthful energy.&lt;/p&gt;
+&lt;p&gt;A key insight shared by Dr. Kelly is the critical impact of lipopolysaccharides—bacterial toxins produced in the gut—on systemic inflammation. He explains that when the gut lining becomes permeable, a condition often referred to as "leaky gut," these toxins enter the bloodstream and trigger inflammation throughout the body, including the joints. This inflammation is a major driver of pain, stiffness, and the sensation of aging. Dr. Kelly emphasizes, "Lipopolysaccharides are bacterial toxins that are made in your gut. You have leaky gut, they get through. They inflame everything, including the joints." This highlights the gut’s central role in overall health and aging.&lt;/p&gt;
+&lt;p&gt;Throughout the episode, Dr. Kelly offers valuable strategies to combat these inflammatory processes. He advocates for dietary interventions, stress reduction, and targeted supplements that support mitochondrial function—the powerhouse of the cells—which tends to decline with age. Improving mitochondrial health not only boosts energy levels but also enhances the body's ability to repair and regenerate tissues. The conversation also touches on the importance of removing triggers that exacerbate stress and inflammation, aligning well with the host's promotion of his new book, which focuses on dissolving stress and activating inner peace.&lt;/p&gt;
+&lt;p&gt;The episode concludes with a powerful takeaway: addressing the root causes of inflammation and cellular decline can dramatically improve quality of life and slow the aging process. Dr. Kelly’s insights encourage listeners to look beyond symptoms and focus on the interconnected systems within the body, particularly the gut and mitochondria, to reclaim their youthful vitality. The message is clear—feeling old is not an inevitability but a condition that can be actively reversed through informed lifestyle changes.&lt;/p&gt;
+&lt;p&gt;Reflecting on the significance of this episode, it serves as a crucial reminder that aging is multifaceted and deeply influenced by internal biology rather than just the passage of time. By illuminating the hidden culprits behind joint pain and fatigue, Dr. Kelly empowers listeners to take control of their health in a holistic way. This episode stands out as an essential guide for anyone seeking to understand and fix what’s making them feel old, underscoring the profound connection between gut health, inflammation, and mitochondrial vitality.&lt;/p&gt;
+
+            
+                ]]&gt;
+                </description>
+      <link>https://yourusername.github.io/podcast_cli/summaries/19940627_the-human-upgrade--biohacking-for-longevity-&amp;-performance_fix-what’s-making-you-feel-old—from-joints-to-mitochondria---dr.-greg-kelly.html</link>
+      <guid>https://yourusername.github.io/podcast_cli/summaries/19940627_the-human-upgrade--biohacking-for-longevity-&amp;-performance_fix-what’s-making-you-feel-old—from-joints-to-mitochondria---dr.-greg-kelly.html</guid>
+      <pubDate>Mon, 27 Jun 1994 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why I Add Creatine To My Coffee Every Morning (And You Should Too)</title>
+      <description>&lt;![CDATA[
+                &lt;h3&gt;Podcast: The Human Upgrade  Biohacking For Longevity &amp; Performance&lt;/h3&gt;
                 &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 1994-07-03&lt;/p&gt;
                 
                 &lt;h4&gt;Summary:&lt;/h4&gt;
-                The episode dives into the surprising intersection of everyday routines and optimal health, focusing specifically on the host’s daily habit of adding creatine to his morning coffee. Drawing from both personal experience and scientific research, the host challenges common misconceptions about creatine supplementation. Listeners are invited to reconsider what they know about this widely misunderstood compound and to learn why it might deserve a spot in their own morning rituals.
+                
+                &lt;p&gt;The episode dives into the surprising intersection of everyday routines and optimal health, focusing specifically on the host’s daily habit of adding creatine to his morning coffee. Drawing from both personal experience and scientific research, the host challenges common misconceptions about creatine supplementation. Listeners are invited to reconsider what they know about this widely misunderstood compound and to learn why it might deserve a spot in their own morning rituals.&lt;/p&gt;
+&lt;p&gt;A central point of discussion is the persistent myth that creatine is harmful to kidney health. The host repeatedly highlights how this belief has been debunked by numerous studies, stating, “Creatine wrecks your kidneys” only to clarify that this notion is outdated and inaccurate. Instead, he emphasizes the safety and broad benefits of creatine when used responsibly, particularly for individuals seeking to enhance cognitive performance, muscle recovery, and general wellbeing.&lt;/p&gt;
+&lt;p&gt;The episode also explores the synergy between creatine and coffee. The host explains that coffee, already a staple for many due to its energizing properties, can actually serve as an ideal vehicle for creatine supplementation. He notes, “Adding creatine to my coffee every morning is one of the simplest ways to stack benefits without extra effort.” This practical advice is complemented by references to scientific literature supporting the combination’s effectiveness.&lt;/p&gt;
+&lt;p&gt;As the conversation draws to a close, the host encourages listeners to re-examine their supplement routines and to remain open to evidence-based changes that can elevate their health. He underscores the importance of questioning popular health myths and making decisions based on the latest research, rather than outdated fears or anecdotal reports. The actionable takeaway is clear: consider integrating creatine into your daily routine, especially if you are already a coffee drinker.&lt;/p&gt;
+&lt;p&gt;Reflecting on the episode, it becomes evident that the host’s mission is to empower listeners with practical, research-backed guidance for everyday wellness. By demystifying creatine and advocating for small, impactful changes, the episode exemplifies how science and habit can intersect for better health. The discussion serves as a reminder to challenge conventional wisdom and to always seek out credible information when making choices about our bodies and minds.&lt;/p&gt;
 
-A central point of discussion is the persistent myth that creatine is harmful to kidney health. The host repeatedly highlights how this belief has been debunked by numerous studies, stating, “Creatine wrecks your kidneys” only to clarify that this notion is outdated and inaccurate. Instead, he emphasizes the safety and broad benefits of creatine when used responsibly, particularly for individuals seeking to enhance cognitive performance, muscle recovery, and general wellbeing.
-
-The episode also explores the synergy between creatine and coffee. The host explains that coffee, already a staple for many due to its energizing properties, can actually serve as an ideal vehicle for creatine supplementation. He notes, “Adding creatine to my coffee every morning is one of the simplest ways to stack benefits without extra effort.” This practical advice is complemented by references to scientific literature supporting the combination’s effectiveness.
-
-As the conversation draws to a close, the host encourages listeners to re-examine their supplement routines and to remain open to evidence-based changes that can elevate their health. He underscores the importance of questioning popular health myths and making decisions based on the latest research, rather than outdated fears or anecdotal reports. The actionable takeaway is clear: consider integrating creatine into your daily routine, especially if you are already a coffee drinker.
-
-Reflecting on the episode, it becomes evident that the host’s mission is to empower listeners with practical, research-backed guidance for everyday wellness. By demystifying creatine and advocating for small, impactful changes, the episode exemplifies how science and habit can intersect for better health. The discussion serves as a reminder to challenge conventional wisdom and to always seek out credible information when making choices about our bodies and minds.
+            
                 ]]&gt;
                 </description>
       <link>https://yourusername.github.io/podcast_cli/summaries/19940703_the-human-upgrade--biohacking-for-longevity-&amp;-performance_why-i-add-creatine-to-my-coffee-every-morning-(and-you-should-too).html</link>
