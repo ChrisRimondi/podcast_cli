@@ -5,24 +5,28 @@
     <description>AI-generated summaries of podcast episodes</description>
     <link>https://yourusername.github.io/podcast_cli/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Jul 2025 11:59:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 12:06:20 GMT</lastBuildDate>
     <item>
-      <title>Test Episode</title>
+      <title>From architect to AI exec: Scaling leadership, maintaining credibility &amp; effective communication to non-technical execs w/ Prashant Ramarao #222</title>
       <description>&lt;![CDATA[
-                &lt;h3&gt;Podcast: Test Podcast&lt;/h3&gt;
-                &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-07-19&lt;/p&gt;
+                &lt;h3&gt;Podcast: The Engineering Leadership Podcast&lt;/h3&gt;
+                &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-05-26&lt;/p&gt;
                 
                 &lt;h4&gt;Summary:&lt;/h4&gt;
-                This is a test summary with multiple paragraphs.
+                In this episode of The Engineering Leadership Podcast, hosts Jerry Li and Patrick Gallagher engage in a compelling conversation with Prashant Ramarao, SVP of Engineering and Head of AI at Yahoo, about his journey from a deeply technical individual contributor (IC) to a high-level executive leading over 100 engineers. The discussion centers on the challenges of scaling leadership, maintaining technical credibility, and effectively communicating with non-technical executives, especially within the rapidly evolving AI landscape. Prashant’s story offers valuable lessons for engineers transitioning into leadership roles and those navigating AI-driven innovation in product development.
 
-This is the second paragraph that demonstrates how the RSS feed will handle multiple paragraphs.
+Prashant shares how he initially spent most of his career as an IC before gradually moving into management, starting with a small team of senior distinguished engineers. This early management experience was unique because these engineers were highly independent and technically proficient, requiring him to focus on coaching around soft skills and helping them navigate organizational dynamics. A pivotal moment came around 2018, when as a chief architect at Yahoo, he identified machine learning and deep learning as crucial areas for investment and skill-building. He spearheaded training efforts that equipped over 300 employees with machine learning expertise, positioning himself as a natural leader for Yahoo’s AI initiatives.
 
-This is the final paragraph that shows the complete summary content.
+A key insight from Prashant is the importance of maintaining technical credibility while scaling leadership responsibilities. He emphasizes the need to experiment personally with emerging technologies to avoid being swayed by hype, stating, “Because this stuff is so new, I want a first-hand experience and exposure to this so that I know when somebody comes and tries to sell me something on a cool new project that we should be doing, I can kind of argue and kind of ask the right questions.” This hands-on approach not only strengthens his expertise but also builds trust with both technical teams and executive stakeholders. Furthermore, Prashant highlights the delicate balance of communicating complex AI topics in accessible ways for non-technical executives, ensuring alignment and informed decision-making.
+
+The episode concludes with practical takeaways for engineering leaders facing similar transitions. Prashant’s journey illustrates that evolving from a technical specialist to a strategic leader requires continuous learning, empathy, and clear communication. Leaders must nurture their teams’ technical growth while cultivating soft skills such as persuasion and vision articulation. Additionally, staying grounded through personal experimentation with new technologies helps maintain authenticity and credibility. These strategies empower leaders to guide large, diverse teams effectively and drive impactful innovation.
+
+Reflecting on the episode’s significance, Prashant’s experience offers a blueprint for engineers aspiring to leadership roles in the AI era. His story underscores the evolving demands on tech leaders—not just to be experts but also to be effective communicators and strategic thinkers. As AI continues to reshape industries, the ability to bridge technical depth with executive insight becomes increasingly vital. This conversation enriches the leadership discourse by blending personal narrative with actionable advice, inspiring listeners to embrace both the technical and human aspects of engineering leadership.
                 ]]&gt;
                 </description>
-      <link>https://yourusername.github.io/podcast_cli/summaries/20250719_test-podcast_test-episode.html</link>
-      <guid>https://yourusername.github.io/podcast_cli/summaries/20250719_test-podcast_test-episode.html</guid>
-      <pubDate>Sat, 19 Jul 2025 00:00:00 GMT</pubDate>
+      <link>https://yourusername.github.io/podcast_cli/summaries/20250526_the-engineering-leadership-podcast_from-architect-to-ai-exec--scaling-leadership,-maintaining-credibility-&amp;-effective-communication-to-.html</link>
+      <guid>https://yourusername.github.io/podcast_cli/summaries/20250526_the-engineering-leadership-podcast_from-architect-to-ai-exec--scaling-leadership,-maintaining-credibility-&amp;-effective-communication-to-.html</guid>
+      <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
