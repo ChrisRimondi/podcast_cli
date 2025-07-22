@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Podcast Summaries</title>
+    <description>AI-generated summaries of podcast episodes</description>
+    <link>https://yourusername.github.io/podcast_cli/</link>
+    <language>en</language>
+    <lastBuildDate>Tue, 22 Jul 2025 11:59:21 GMT</lastBuildDate>
+    <item>
+      <title>Test Episode</title>
+      <description>&lt;![CDATA[
+                &lt;h3&gt;Podcast: Test Podcast&lt;/h3&gt;
+                &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-07-19&lt;/p&gt;
+                
+                &lt;h4&gt;Summary:&lt;/h4&gt;
+                This is a test summary with multiple paragraphs.
+
+This is the second paragraph that demonstrates how the RSS feed will handle multiple paragraphs.
+
+This is the final paragraph that shows the complete summary content.
+                ]]&gt;
+                </description>
+      <link>https://yourusername.github.io/podcast_cli/summaries/20250719_test-podcast_test-episode.html</link>
+      <guid>https://yourusername.github.io/podcast_cli/summaries/20250719_test-podcast_test-episode.html</guid>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
