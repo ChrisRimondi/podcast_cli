@@ -5,7 +5,7 @@
     <description>AI-generated summaries of podcast episodes</description>
     <link>https://chrisrimondi.github.io/podcast_cli/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Jul 2025 12:27:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2025 17:13:51 GMT</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Windsurf, Ai Agents, And Kiro</title>
@@ -90,6 +90,27 @@
       <link>https://chrisrimondi.github.io/podcast_cli/summaries/20250526_the-engineering-leadership-podcast_from-architect-to-ai-exec--scaling-leadership,-maintaining-credibility-&amp;-effective-communication-to-.html</link>
       <guid>https://chrisrimondi.github.io/podcast_cli/summaries/20250526_the-engineering-leadership-podcast_from-architect-to-ai-exec--scaling-leadership,-maintaining-credibility-&amp;-effective-communication-to-.html</guid>
       <pubDate>Mon, 26 May 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>You Can’T Spell Clippy Without Cli</title>
+      <description>&lt;![CDATA[
+                &lt;h3&gt;Podcast: Software Defined Talk&lt;/h3&gt;
+                &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-07-10&lt;/p&gt;
+                
+                &lt;h4&gt;Summary:&lt;/h4&gt;
+                
+                &lt;p&gt;In the episode titled "You can’t spell Clippy without CLI," the hosts dive into the nuanced topic of the meaning of "home" and how it shifts based on personal experience and context. The conversation begins with a relatable question about what "home" signifies when someone says they are "back home." This opening sets the stage for a broader exploration of identity, belonging, and the subtle ways language reflects our connections to place.&lt;/p&gt;
+&lt;p&gt;Throughout the discussion, the hosts share their own perspectives on the concept of home, highlighting how it can evolve over time. Matt Ray, for instance, reflects on his own changing definition, noting that although he once considered "home" to be America, it has gradually become Australia for him. This personal insight underscores the fluid nature of home as a concept and how our experiences and environments influence our emotional attachments. The dialogue emphasizes that "home" is not just a physical location but an emotional state shaped by memories and identity.&lt;/p&gt;
+&lt;p&gt;A particularly memorable moment comes when Matt candidly admits, "I don't know when the line crossed," illustrating the unconscious shift in his sense of belonging. This statement captures the episode's theme that home is often a subtle, evolving feeling rather than a fixed place. The hosts use this reflection to prompt listeners to consider their own definitions of home and how these may have changed over time, encouraging a deeper understanding of personal identity and cultural ties.&lt;/p&gt;
+&lt;p&gt;Concluding the episode, the hosts remind their audience that the idea of home is complex and multifaceted, shaped by factors such as geography, culture, and personal history. They suggest that embracing this fluidity can enrich one’s sense of self and foster a greater appreciation for the diverse meanings that home can hold. The takeaway is a call to acknowledge and celebrate the layered experiences that inform where we feel most connected.&lt;/p&gt;
+&lt;p&gt;This episode stands out as a thoughtful meditation on belonging and the human experience of place. By using a simple question about the word "home," the hosts open up a rich conversation that resonates with anyone navigating multiple cultures or identities. It offers listeners a moment of introspection and reminds us that in a globalized world, home is often less about a single location and more about the connections that shape us.&lt;/p&gt;
+
+            
+                ]]&gt;
+                </description>
+      <link>https://chrisrimondi.github.io/podcast_cli/summaries/20250710_software-defined-talk_you-can’t-spell-clippy-without-cli.html</link>
+      <guid>https://chrisrimondi.github.io/podcast_cli/summaries/20250710_software-defined-talk_you-can’t-spell-clippy-without-cli.html</guid>
+      <pubDate>Thu, 10 Jul 2025 12:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
