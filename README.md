@@ -188,13 +188,13 @@ To publish your RSS feed and summaries online:
 3. **Update the site URL** in your config:
    ```yaml
    rss:
-     site_url: "https://yourusername.github.io/podcast_cli/"
+     site_url: "https://ChrisRimondi.github.io/podcast_cli/"
    ```
 4. **Generate summaries** using the CLI - they'll automatically appear on your site
 
 Your summaries will be available at:
-- **Website**: `https://yourusername.github.io/podcast_cli/`
-- **RSS Feed**: `https://yourusername.github.io/podcast_cli/feed.xml`
+- **Website**: `https://ChrisRimondi.github.io/podcast_cli/`
+- **RSS Feed**: `https://ChrisRimondi.github.io/podcast_cli/feed.xml`
 
 ## Configuration
 
@@ -221,7 +221,7 @@ save:
 rss:
   enabled: true
   directory: "docs"
-  site_url: "https://yourusername.github.io/podcast_cli/"
+  site_url: "https://ChrisRimondi.github.io/podcast_cli/"
 ```
 
 ## How It Works

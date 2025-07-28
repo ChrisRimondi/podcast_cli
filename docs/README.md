@@ -18,13 +18,13 @@ This directory contains the generated website and RSS feed for podcast summaries
 
 ## RSS Feed
 
-The RSS feed is available at: `https://yourusername.github.io/podcast_cli/feed.xml`
+The RSS feed is available at: `https://ChrisRimondi.github.io/podcast_cli/feed.xml`
 
 You can subscribe to this feed in any RSS reader or podcast app.
 
 ## Website
 
-The main website is available at: `https://yourusername.github.io/podcast_cli/`
+The main website is available at: `https://ChrisRimondi.github.io/podcast_cli/`
 
 ## Auto-Generation
 

@@ -38,7 +38,7 @@ def create_default_config(config_path: Path) -> None:
         "rss": {
             "enabled": True,
             "directory": "docs",
-            "site_url": "https://yourusername.github.io/podcast_cli/"
+            "site_url": "https://ChrisRimondi.github.io/podcast_cli/"
         }
     }
     
