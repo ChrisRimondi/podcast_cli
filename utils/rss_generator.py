@@ -54,9 +54,15 @@ class RSSGenerator:
                     with open(html_file, 'r', encoding='utf-8') as f:
                         content = f.read()
                     
-                    # Extract summary text (simplified - could be more robust)
+                    # Extract summary text (improved regex for better content extraction)
                     summary_match = re.search(r'<div class="summary-content">(.*?)</div>', content, re.DOTALL)
-                    summary_text = summary_match.group(1) if summary_match else ""
+                    if summary_match:
+                        summary_text = summary_match.group(1).strip()
+                        # Clean up HTML tags to get plain text
+                        summary_text = re.sub(r'<[^>]+>', '', summary_text)
+                        summary_text = re.sub(r'\s+', ' ', summary_text).strip()
+                    else:
+                        summary_text = ""
                     
                     self.summaries.append({
                         'title': episode_title.replace('-', ' ').title(),
@@ -114,9 +120,11 @@ class RSSGenerator:
                 'url': f"{self.feed_link}summaries/{filename}.html"
             }
             
-            # Reload all summaries to ensure we have the complete list
-            self.summaries = []
-            self._load_existing_summaries()
+            # Add the new summary to the list
+            self.summaries.append(summary_data)
+            
+            # Sort summaries by date (newest first)
+            self.summaries.sort(key=lambda x: x['date'], reverse=True)
             
             # Update RSS feed
             self._update_rss_feed()
@@ -237,8 +245,12 @@ class RSSGenerator:
             # Generate summary items HTML
             summary_items = ""
             for summary in self.summaries[:20]:  # Limit to 20 most recent
+                # Clean up summary text for preview (remove HTML tags)
+                clean_summary = re.sub(r'<[^>]+>', '', summary['summary'])
+                clean_summary = re.sub(r'\s+', ' ', clean_summary).strip()
+                
                 # Truncate summary for preview
-                preview = summary['summary'][:200] + "..." if len(summary['summary']) > 200 else summary['summary']
+                preview = clean_summary[:200] + "..." if len(clean_summary) > 200 else clean_summary
                 
                 summary_items += f"""
                 <div class="summary-item">
