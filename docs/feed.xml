@@ -5,24 +5,16 @@
     <description>AI-generated summaries of podcast episodes</description>
     <link>https://chrisrimondi.github.io/podcast_cli/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Jul 2025 11:06:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 11:09:08 GMT</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>Test Episode - RSS Generator Fix</title>
+      <title>Test Episode   Rss Generator Fix</title>
       <description>&lt;![CDATA[
                 &lt;h3&gt;Podcast: Test Podcast&lt;/h3&gt;
                 &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-07-29&lt;/p&gt;
                 
                 &lt;h4&gt;Summary:&lt;/h4&gt;
-                This is a test summary for the RSS generator fix.
-
-The second paragraph contains additional information about the fix that was implemented to resolve the issue where new summaries were not appearing in the index.html file.
-
-The third paragraph explains that the problem was in the add_summary method where the new summary data was created but never added to the summaries list before the list was cleared and reloaded.
-
-The fourth paragraph describes the solution which involved properly adding the new summary to the list and sorting by date, rather than clearing and reloading all summaries.
-
-The final paragraph concludes that this fix ensures new summaries appear immediately in both the RSS feed and the index.html page.
+                This is a test summary for the RSS generator fix. The second paragraph contains additional information about the fix that was implemented to resolve the issue where new summaries were not appearing in the index.html file. The third paragraph explains that the problem was in the add_summary method where the new summary data was created but never added to the summaries list before the list was cleared and reloaded. The fourth paragraph describes the solution which involved properly adding the new summary to the list and sorting by date, rather than clearing and reloading all summaries. The final paragraph concludes that this fix ensures new summaries appear immediately in both the RSS feed and the index.html page.
                 ]]&gt;
                 </description>
       <link>https://chrisrimondi.github.io/podcast_cli/summaries/20250729_test-podcast_test-episode---rss-generator-fix.html</link>
@@ -42,6 +34,28 @@ The final paragraph concludes that this fix ensures new summaries appear immedia
       <link>https://chrisrimondi.github.io/podcast_cli/summaries/20250717_software-defined-talk_windsurf,-ai-agents,-and-kiro.html</link>
       <guid>https://chrisrimondi.github.io/podcast_cli/summaries/20250717_software-defined-talk_windsurf,-ai-agents,-and-kiro.html</guid>
       <pubDate>Thu, 17 Jul 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>248. Terry Johnson on Christian Nationalism (Bonus)</title>
+      <description>&lt;![CDATA[
+                &lt;h3&gt;Podcast: The Westminster Standard&lt;/h3&gt;
+                &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-07-13&lt;/p&gt;
+                
+                &lt;h4&gt;Summary:&lt;/h4&gt;
+                In episode 248 of the Westminster Standard podcast, host Ryan Beze shares an insightful bonus episode originally from the Into The Study podcast by Independent Presbyterian Church in Savannah, Georgia. The conversation features Dr. Terry Johnson and Tim Shaw discussing the complex and timely topic of Christian nationalism and its relationship with church and state. This dialogue is especially relevant as the Presbyterian Church in America (PCA) considers how to thoughtfully engage with the cultural and political challenges of our era, including the role of Christians in government and society.
+
+Dr. Johnson opens by explaining the PCA’s interest in studying Christian nationalism, citing the current cultural chaos and the need for a foundational consensus on justice, truth, and morality in society. He traces the historical Christian consensus in America back to its colonial roots and further to England’s constitutional heritage, emphasizing the importance of the rule of law over arbitrary rule. Johnson underscores that the erosion of this moral and legal consensus leads either to anarchy or authoritarianism, making the restoration of Christian principles crucial to maintaining societal order.
+
+A significant portion of the discussion centers on how Christian nationalism has become a controversial and often misunderstood term. Johnson points out that it was once associated positively with a shared moral foundation but has recently been conflated with extremist ideologies like white nationalism and authoritarianism. He challenges the modern notion that America is merely an abstract idea, arguing instead that the nation has a deeply rooted Christian heritage that shaped its laws and values. This historical perspective calls for renewed clarity on what it means to be a Christian citizen in a pluralistic and often polarized society.
+
+One of the key takeaways from the episode is the biblical principle cited by Dr. Johnson: "Render to Caesar the things that are Caesar’s and to God the things that are God’s." This statement serves as a foundational guide for understanding the distinct roles of church and state. Johnson highlights how throughout history, rulers have often claimed divine authority, leading to confusion and conflict. The episode encourages listeners to reflect on the proper balance between respecting governmental authority while maintaining ultimate allegiance to God, a balance that the PCA hopes to address through its forthcoming study and guidance on Christian nationalism.
+
+This episode’s significance lies in its thoughtful and measured approach to a topic that is often emotionally charged and politically divisive. By grounding the discussion in history, theology, and Scripture, Dr. Johnson and Tim Shaw provide a framework for Christians to engage with contemporary issues of governance and cultural identity without succumbing to extremes. The conversation invites believers to consider how their faith informs their civic duties and challenges them to seek unity based on enduring truths rather than fleeting political trends. It is a timely call for wisdom and discernment as the church navigates the complex intersection of faith and public life.
+                ]]&gt;
+                </description>
+      <link>https://chrisrimondi.github.io/podcast_cli/summaries/20250713_the-westminster-standard_248.-terry-johnson-on-christian-nationalism-(bonus).html</link>
+      <guid>https://chrisrimondi.github.io/podcast_cli/summaries/20250713_the-westminster-standard_248.-terry-johnson-on-christian-nationalism-(bonus).html</guid>
+      <pubDate>Sun, 13 Jul 2025 12:00:00 GMT</pubDate>
     </item>
     <item>
       <title>You Can’T Spell Clippy Without Cli</title>
