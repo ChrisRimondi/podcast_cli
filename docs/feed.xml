@@ -5,7 +5,7 @@
     <description>AI-generated summaries of podcast episodes</description>
     <link>https://chrisrimondi.github.io/podcast_cli/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Jul 2025 17:17:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 10:54:05 GMT</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Windsurf, Ai Agents, And Kiro</title>
@@ -111,6 +111,27 @@
       <link>https://chrisrimondi.github.io/podcast_cli/summaries/20250709_the-human-upgrade--biohacking-for-longevity-&amp;-performance_facelifts,-breast-implants,-and-the-real-fix-for-wrinkles.html</link>
       <guid>https://chrisrimondi.github.io/podcast_cli/summaries/20250709_the-human-upgrade--biohacking-for-longevity-&amp;-performance_facelifts,-breast-implants,-and-the-real-fix-for-wrinkles.html</guid>
       <pubDate>Wed, 09 Jul 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Deepmind'S Ai Playbook For Engineering At Hyperspeed   Philipp Schmid</title>
+      <description>&lt;![CDATA[
+                &lt;h3&gt;Podcast: Dev Interrupted&lt;/h3&gt;
+                &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-06-16&lt;/p&gt;
+                
+                &lt;h4&gt;Summary:&lt;/h4&gt;
+                
+                &lt;p&gt;In this episode of Dev Interrupted, hosts Andrew Zigler and Ben Lloyd Pearson dive into the cutting-edge strategies employed by Google DeepMind to accelerate engineering productivity through AI. The conversation centers on how DeepMind leverages agentic AI to transform software development, pushing the boundaries of what teams can achieve at hyperspeed. This topic resonates deeply with developers eager to understand the evolving intersection of AI and coding practices, making it a compelling exploration of innovation in the tech world.&lt;/p&gt;
+&lt;p&gt;The hosts unpack several key insights, beginning with Cloudflare’s pioneering use of agentic AI to automate complex tasks traditionally requiring significant human oversight. This partnership exemplifies a broader trend where AI is not just a tool but an active collaborator in consumer-facing applications and backend engineering workflows. Andrew and Ben highlight developers’ mixed feelings about code assistance, noting that while AI can boost efficiency, it also raises questions about trust, control, and the evolution of coding skills.&lt;/p&gt;
+&lt;p&gt;Throughout the episode, memorable statements underscore these themes. One standout quote emphasizes the dual nature of AI in development: “AI is not here to replace developers but to augment their capabilities, enabling us to build faster and smarter.” This perspective balances excitement with caution, acknowledging that while AI accelerates engineering, the human element remains irreplaceable. The hosts also stress the importance of thoughtful integration of AI tools to maintain code quality and developer satisfaction.&lt;/p&gt;
+&lt;p&gt;Concluding their discussion, Andrew and Ben synthesize the takeaways into a clear message: AI-driven engineering is reshaping the software landscape, but success depends on a harmonious blend of technology and human insight. They celebrate milestones in AI adoption within developer communities while recognizing ongoing challenges, such as ethical considerations and the need for continuous learning. The episode advocates for embracing AI as a partner rather than a panacea in software development.&lt;/p&gt;
+&lt;p&gt;Reflecting on the episode’s significance, it becomes evident that this conversation captures a pivotal moment in tech evolution. As AI tools become more agentic and integral to engineering processes, developers and organizations must adapt thoughtfully to harness these advances responsibly. The dialogue offers valuable lessons on navigating this transformation, making the episode a must-listen for anyone invested in the future of software development and AI’s role therein.&lt;/p&gt;
+
+            
+                ]]&gt;
+                </description>
+      <link>https://chrisrimondi.github.io/podcast_cli/summaries/20250616_dev-interrupted_google-deepmind's-ai-playbook-for-engineering-at-hyperspeed---philipp-schmid.html</link>
+      <guid>https://chrisrimondi.github.io/podcast_cli/summaries/20250616_dev-interrupted_google-deepmind's-ai-playbook-for-engineering-at-hyperspeed---philipp-schmid.html</guid>
+      <pubDate>Mon, 16 Jun 2025 12:00:00 GMT</pubDate>
     </item>
     <item>
       <title>You Can’T Spell Clippy Without Cli</title>
